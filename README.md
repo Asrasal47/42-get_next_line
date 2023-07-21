@@ -1,4 +1,4 @@
-#42-get_next_line
+# 42-get_next_line
 
 ## Introduction
 The get_next_line project involves creating a function that reads a line from a file descriptor,
